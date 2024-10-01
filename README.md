@@ -2,6 +2,4 @@
 
 | Subject   | Session   | Link    |
 |-------|---------------|-----------|
-| OOPS with Java Programming Lab | 2023-24 | [Click here](https://github.com/abhishek-kumar-21/rkgit-codetantra/tree/main/OOPS%20with%20Java%20Programming) |
-| Operating System Lab | 2023-24 | [Click here](https://github.com/abhishek-kumar-21/rkgit-codetantra/tree/main/Operating%20System%20Lab) |
-| Design and Analysis of Algorithms Lab | 2024-25 | [Click here](https://github.com/abhishek-kumar-21/rkgit-codetantra/tree/main/Design%20and%20Analysis%20of%20Algorithms%20Lab) |
+| Data Structure using C Programming Lab | 2024-25 | [Click here](https://github.com/AdityaParmar-23/RKGIT-CODETANTRA-new/tree/df10fda1af5aca1f8de9ceafdf7ffd05f7221046/Data%20Structure%20using%20C) |
