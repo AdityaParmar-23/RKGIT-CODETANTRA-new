@@ -5,4 +5,4 @@
 |    |          |                                                        |
 | 	2| 	OOPS-LAB | 	[Click Here.](https://github.com/AdityaParmar-23/RKGIT-CODETANTRA-new/tree/6c140f05acbb12e43c0e664306701ba0b392282d/OOPS-LAB/OOPS-LAB)| 
 |    |          |                                                        |
-| 	3| DAA_Lab	| 	[Click Here.](https://github.com/AdityaParmar-23/RKGIT-CODETANTRA-new/tree/6c140f05acbb12e43c0e664306701ba0b392282d/OOPS-LAB/OOPS-LAB)|                                                           |
+| 	3| DAA_Lab	| 	[Click Here.](https://github.com/AdityaParmar-23/RKGIT-CODETANTRA-new/tree/4a622f971bc4f6684f6f97ad133e1b23fae4b2dd/DAA%20Lab)|                                                           |
